@@ -1,5 +1,9 @@
-setwd("C:/Users/twilson/Desktop/R/R_Crse/3getngdata/Project")
+############# CLEANING SCRIPT for HUMAN ACTIVITY RECOGNITION USING SMARTPHONES DATASET
 
+#If you have saved the downloaded data into a location that is different from your R working directory - 
+# then set your working directory using the following code:
+#setwd("[insert full address of working directory")
+#remeber that if you are using Windows, you will need to change the direction of the slash [/]
 
 ## Loads the required packages to run this code
 library(dplyr)
