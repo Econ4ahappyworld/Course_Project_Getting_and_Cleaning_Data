@@ -1,4 +1,4 @@
-# Course_Project_Getting_and_Cleaning_Data
+# Readme
 Course_Project_Getting_and_Cleaning_Data
 
 Timothy Wilson
