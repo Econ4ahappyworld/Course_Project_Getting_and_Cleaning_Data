@@ -42,7 +42,30 @@ The readme file can be found here: Course_Project_Getting_and_Cleaning_Data/READ
 
 The tidy data set ("data.txt") is a dataset of 180 observations of 88 variables.
 
-###These variables are as follows
+The subject variable is a unique identifier referring to 1 of the 30 subjects involved in experiment.
+
+The description variable refers to one of the six activities that the subjects undertook they were either:
+LAYING, SITTING, STANDING, WALKING, WALKING DOWNSTAIRS or WALKING UPSTAIRS.
+
+The remaining variables refer to measurements taken by the accelerometer and the gryoscope. A full description of these measurements can be found in the ANNEX at the bottom of this book.
+
+These variables use the following shorthand:
+
+t refers to time
+
+f refers to frequency
+
+Acc  refers to acceleratemeter.
+
+Gryo refers to gryscope.
+
+Mag refers to magnitude.
+
+Std refers to standard deviation.
+
+XYZ refers to the direction of the action (X, Y and Z directions)
+
+###The full list of these variables are as follows
 
  subject                  : int  1 1 1 1 1 1 2 2 2 2 ...
  
@@ -220,3 +243,4 @@ The tidy data set ("data.txt") is a dataset of 180 observations of 88 variables.
  
  fBodyBodyGyroJerkMagstd  : num  -0.933 -0.987 -0.995 -0.382 -0.392 ...
  
+ANNEX ONE - COPY OF VARIABLES DESCRIPTION FROM Features.txt in ORIGINAL DATASET
