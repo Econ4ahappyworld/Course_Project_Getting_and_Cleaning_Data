@@ -47,7 +47,7 @@ The subject variable is a unique identifier referring to 1 of the 30 subjects in
 The description variable refers to one of the six activities that the subjects undertook they were either:
 LAYING, SITTING, STANDING, WALKING, WALKING DOWNSTAIRS or WALKING UPSTAIRS.
 
-The remaining variables refer to measurements taken by the accelerometer and the gryoscope. A full description of these measurements can be found in the ANNEX at the bottom of this book.
+The remaining variables refer to measurements taken by the accelerometer and the gryoscope. A full description of these measurements can be found in the 'features.txt' accessible in the original dataset.
 
 These variables use the following shorthand:
 
@@ -242,5 +242,3 @@ XYZ refers to the direction of the action (X, Y and Z directions)
  fBodyBodyGyroMagstd      : num  -0.824 -0.932 -0.978 -0.321 -0.398 ...
  
  fBodyBodyGyroJerkMagstd  : num  -0.933 -0.987 -0.995 -0.382 -0.392 ...
- 
-ANNEX ONE - COPY OF VARIABLES DESCRIPTION FROM Features.txt in ORIGINAL DATASET
